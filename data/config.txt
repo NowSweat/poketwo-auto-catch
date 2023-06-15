@@ -1,0 +1,5 @@
+{
+"user_token" : "YOUR TOKEN",
+"channel_id" : "CHANNEL POKEMON SPAWN",
+"spam_channel" : "SPAM CHANNEL ID"
+}
